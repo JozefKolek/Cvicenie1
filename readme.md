@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Terézia Strišovská
-2.
+2. Roman Božik
 3.
 4.
 
