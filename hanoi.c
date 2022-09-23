@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+Bolo raz jedno dievčatko, ktoré raz oskalpovali Inidáni a preto ho všetci volali, Červená Čiapočka
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
