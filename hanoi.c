@@ -9,7 +9,7 @@ void hanoi(int n, int a, int b)
   else
   {
     hanoi(n - 1, a, 6 - a - b);
-    print("presuò kameò %d z %d na %d\n", n, a, b);
+    printf("presuò kameò %d z %d na %d\n", n, a, b);
     hanoi(n-1, 6 - a - b, b);
   }
 }
