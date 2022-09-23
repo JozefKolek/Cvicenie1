@@ -15,5 +15,5 @@ Nas tim tvoria clenovia:
 1. Terézia Strišovská
 2. Roman Božik
 3. Jozef Kolek
-4.
+4. Michal Uhrin
 
