@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+Nieje všetko zlato čo hrkoce
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
